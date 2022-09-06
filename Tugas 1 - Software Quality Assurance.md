@@ -4,18 +4,14 @@ Chapter 1
 
 # Tantangan Mutu Perangkat Lunak
 
-    Chapter outline
-
-    1.1  The uniqueness of software quality assurance
-
-    1.2 The environments for which SQA methods are developed
-
-    Summary
-
-    Review questions
-
-    Topics for discussion
-
+| Chapter outline |  |  |
+| -----| --------------- | ----------- |
+| 1.1 | The uniqueness of software quality assurance | 4 |
+| 1.2 | The environments for which SQA methods are developed | 7 |
+| | Summary | 11 |
+| | Review questions | 12 |
+| | Topics for discussion | 12 |
+||
 <div style="text-align: justify">Two basic questions should be raised before we proceed to list the variety of
 subjects and details of the book:
 
@@ -114,7 +110,7 @@ atas segala kerusakan, insidental, langsung, tidak langsung atau konsekuensial,
 timbul sebagai akibat dari data yang rusak, biaya pemulihan, kerugian laba, dan
 ketiga klaim pihak. perangkat lunak dilisensikan "sebagaimana adanya". Pembeli
 mengasumsikan risiko lengkap yang berasal dari penerapan program 
-AMGAL,kualitas dan kinerja.*
+AMGAL, kualitas dan kinerja.*
 
 If physical defects are discovered in the documentation or the CD on
 which **AMGAL** is distributed, **Dagal Features** will replace, at no charge,
@@ -261,8 +257,8 @@ are quite limited during this phase.
 
 *Manufaktur Seperti yang dikatakan sebelum nya, proses manufaktur 
 software hanya sebatas meng-copy produk dan mencetak software manual. 
-Akibatnya, sangat jarang kecacatan produk terdeteksi pada tahap ini.
-*</Ul>
+Akibatnya, sangat jarang kecacatan produk terdeteksi pada tahap ini.*
+</Ul>
 
 The differences affecting the detection of defects in software products versus
 other industrial products are shown in Table 1.1 and Frame 1.1.
@@ -330,3 +326,13 @@ successful implementation a highly professional challenge.
 *Kompleksitas besar serta ketidaktampakan perangkat lunak, antara lain
 karakteristik produk, membuat pengembangan metodologi SQA dan
 keberhasilan implementasi tantangan yang sangat profesional.*</div>
+
+### 1.2 The environments for which SQA methods are developded
+
+ software developed by many individuals and in different situations ful-fills a variety of needs:
+ <ul>
+ <li style="list-style-type:square">Pupils and students develop software as part of their education.
+ <li style="list-style-type:square">Software amateurs develop software as a hobby
+ <li style="list-style-type:square">Professionals in engineering, economics, management and other fieldsdevelop software to assist them in their work, to perform calculations, summarize research and survey activities, and so forth.
+<li style="list-style-type:square">Software development professionals (systems analysts and programmers) develop software products or firmware as a professional career objective while in the employment of software houses or by software development and maintenance units (teams, departments, etc.) of large and small industrial, financial and other organizations.</ul>
+
