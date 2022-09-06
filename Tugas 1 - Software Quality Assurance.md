@@ -325,14 +325,61 @@ successful implementation a highly professional challenge.
 
 *Kompleksitas besar serta ketidaktampakan perangkat lunak, antara lain
 karakteristik produk, membuat pengembangan metodologi SQA dan
-keberhasilan implementasi tantangan yang sangat profesional.*</div>
+keberhasilan implementasi tantangan yang sangat profesional.*
 
 ### 1.2 The environments for which SQA methods are developded
 
  software developed by many individuals and in different situations ful-fills a variety of needs:
  <ul>
- <li style="list-style-type:square">Pupils and students develop software as part of their education.
- <li style="list-style-type:square">Software amateurs develop software as a hobby
- <li style="list-style-type:square">Professionals in engineering, economics, management and other fieldsdevelop software to assist them in their work, to perform calculations, summarize research and survey activities, and so forth.
-<li style="list-style-type:square">Software development professionals (systems analysts and programmers) develop software products or firmware as a professional career objective while in the employment of software houses or by software development and maintenance units (teams, departments, etc.) of large and small industrial, financial and other organizations.</ul>
+ <li>Pupils and students develop software as part of their education.
+ <li>Software amateurs develop software as a hobby
+ <li>Professionals in engineering, economics, management and other fieldsdevelop software to assist them in their work, to perform calculations, summarize research and survey activities, and so forth.
+ <li>Software development professionals (systems analysts and programmers) develop software products or firmware as a professional career objective while in the employment of software houses or by software development and maintenance units (teams, departments, etc.) of large and small industrial, financial and other organizations.</ul>
 
+All those who participate in these activities are required to deal with software quality problems (“bugs”). However, quality problems in their most
+severe form govern the professional software development.
+
+This book is devoted, therefore, to defining and solving many of the software quality assurance (SQA) problems confronted by software development
+and maintenance professionals. However, all other types of software developers can find portions of the book applicable to and recommended for their
+own software development efforts.
+
+us begin with the examination of the environment of professional soft-ware development and maintenance (hereafter “the SQA environment”), as it
+is a major consideration in the development of SQA methodologies and their
+implementation. The main characteristics of this environment are as follows:
+<ol>
+<li> Contractual conditions. As a result of the commitments and conditions defined in the contract between the software developer and the customer, the activities of software development and maintenance need to cope with:</li>
+<ul>
+<li> A defined list of functional requirements that the developed software and its maintenance need to fulfill.
+<li> The project budget.
+<li> The project timetable.
+
+The managers of software development and maintenance projects need
+to invest a considerable amount of effort in the oversight of activities in
+order to meet the contract’s requirements. 
+</ul>
+<li>Subjection to customer–supplier relationship. Throughout the process of
+software development and maintenance, activities are under the oversight of the customer. The project team has to cooperate continuously
+with the customer: to consider his request for changes, to discuss his criticisms about the various aspects of the project, and to get his approval
+for changes initiated by the development team. Such relationships do not
+usually exist when software is developed by non-software professionals.
+<li> Required teamwork. Three factors usually motivate the establishment of
+a project team rather than assigning the project to one professional:
+<ul>
+<li> Timetable requirements. In other words, the workload undertaken
+during the project period requires the participation of more than one
+person if the project is to be completed on time.
+<li> The need for a variety of specializations in order to carry out the project.
+<li> The wish to benefit from professional mutual support and review for
+the enhancement of project quality.
+</ul>
+<li> Cooperation and coordination with other software teams. The carryingout of projects, especially large-scale projects, by more than one team is
+a very common event in the software industry. In these cases, cooperation may be required with:
+<ul>
+<li> Other software development teams in the same organization.
+<li> Hardware development teams in the same organization.
+<li> Software and hardware development teams of other suppliers.
+<li> Customer software and hardware development teams that take part
+in the project’s development.
+</ul>
+An outline of cooperation needs, as seen from the perspective of the
+development team, is shown in Figure 1.1.
